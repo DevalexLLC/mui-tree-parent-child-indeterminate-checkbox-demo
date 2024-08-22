@@ -1,5 +1,7 @@
 # MUI-X Tree View with Parent/Child Relationship and Indeterminate Checkboxes
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/~/fork/github/DevalexLLC/mui-tree-parent-child-indeterminate-checkbox-demo?file=src%2FApp.tsx)
+
 ![tree view example](demo.png)
 
 I needed this functionality for a project where our team uses MUI, so I wanted to share a minimal example of my implementation. It requires some saved state to share between the tree and the items, and a way to programmatically add parents to the items.
